@@ -1,10 +1,10 @@
-# Fungible token
+# luckytheratilla
 
 Fungible tokens are digital assets that can be sent, received, combined, and divided.
 
 This contract implements a basic fungible token that conforms to the SIP-010 FT standard. Be sure to change the placeholder name of the collection, as well as any other variables or references to your new project.
 
-## SIP-010 Standard Trait Definition for Fungible Tokens
+## SIP-010 Standard Trait Definition for luckytheratilla
 
 In [Stacks Improvement Proposal 010 (SIP-010)](https://github.com/stacksgov/sips/blob/main/sips/sip-010/sip-010-fungible-token-standard.md), the Stacks community proposed and approved a standard set of functions that every fungible token contract is to implement to qualify as a compliant fungible token on the Stacks chain. This creates uniformity and predictability in contract interactions, as well as enables a handful of built-in Clarity functions accessible only to SIP-010 contracts (such as `ft-transfer?`, etc.).
 
